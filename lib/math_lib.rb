@@ -1,5 +1,8 @@
 require "math_lib/version"
 
 module MathLib
-  # Your code goes here...
+  def self.print_test
+    puts "testtesttest"
+  end
+
 end
