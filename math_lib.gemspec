@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["matan_co@hotmail.com"]
   spec.description   = %q{lib to calc algebraic expressions,equation and more}
   spec.summary       = %q{lib to calc algebraic expressions,equation and more}
-  spec.homepage      = "None"
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
